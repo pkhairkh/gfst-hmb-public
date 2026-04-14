@@ -1,0 +1,5 @@
+*.pt binary
+*.pth binary
+*.ckpt binary
+*.bin binary
+*.safetensors binary
